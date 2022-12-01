@@ -1,0 +1,10 @@
+{
+  "name": "purescript-variant-ctors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Bock <no-day@posteo.net>",
+  "license": "MIT",
+  "dependencies": {
+    "purs-to-md": "https://github.com/thought2/purs-to-md"
+  }
+}
