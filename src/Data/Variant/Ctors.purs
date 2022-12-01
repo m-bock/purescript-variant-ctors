@@ -12,6 +12,7 @@ import Record as Record
 import Type.Proxy (Proxy(..))
 
 --- Ctors
+
 class Ctors (v :: Type) (c :: Type) | v -> c where
   ctors :: Proxy v -> c
 
